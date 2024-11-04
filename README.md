@@ -1,8 +1,8 @@
 **about**
 
-I am a clinical neuroscientist with eight years of experience researching the causes and treatments of mood disorders. In this work, I take an interdisciplinary approach. While my PhD focused on the neural circuitry underlying anxiety, I also specialized in clinical psychology, where I got to work hands-on with clients giving evidence-based treatments. While my predoctoral work included machine learning and graph theory analyses to predict treatment outcomes, I also completed an internship at RAND where I worked on translational and policy issues related to suicide prevention. 
+I am a clinical neuroscientist with eight years of experience researching the causes and treatments of mood disorders. In this work, I take an interdisciplinary approach. While my PhD focused on the neural circuitry underlying anxiety, I also completed a two-year specialization in clinical psychology, where I got to work hands-on with clients giving evidence-based treatments. Most of my research fits under the umbrella of computational psychiatry, meaning I use data science tools (machine learning, Bayesian approaches, computational models) to understand individual differences in brains and behavior relevant to mental health. But I also completed an internship at [RAND](https://www.rand.org/) where I worked on translational and policy issues related to suicide prevention. 
 
-Fundamentally, I think mood disorders are caused by interlocking problems at the biological, psychological, interpersonal, societal & environmental levels. And if we want to accelerate our ability to better understand, treat, and prevent mood disorders, we will need to bring multiple perspectives together across these levels.   
+Fundamentally, I think mood disorders are caused by interlocking problems at the biological, psychological, interpersonal, societal & environmental levels. And we can accelerate our ability to better understand, treat, and prevent mood disorders, if we bring multiple perspectives together across these levels.   
 
 [check out my cv here](https://github.com/bstavel/bstavel.github.io/blob/main/assets/docs/CurriculumVitae_BrookeStaveland.pdf)
 
