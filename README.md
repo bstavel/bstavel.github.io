@@ -4,15 +4,18 @@ I am a clinical neuroscientist with eight years of experience researching the ca
 
 Fundamentally, I think mood disorders are caused by interlocking problems at the biological, psychological, interpersonal, societal & environmental levels. And we can accelerate our ability to better understand, treat, and prevent mood disorders, if we bring multiple perspectives together across these levels.   
 
-[check out my cv here](https://github.com/bstavel/bstavel.github.io/blob/main/assets/docs/CurriculumVitae_BrookeStaveland.pdf)
 
 **research**
 
 My research career began with large-scale treatment prediction studies to better match depressed/anxious individuals with unique SSRIs and behavioral interventions at Stanford's [PanLab](https://williamspanlab.com/). In my doctoral work at UC Berkeley, I fit computational models of anxious decision-making (avised by Dr. Ming Hsu @ the [Neuroecon Lab](https://neuroecon.berkeley.edu/) and then use these models to better characterize the underlying brain circuitry using iEEG (advised by Dr. Robert Knight @ the [Knight Lab](https://knightlab.neuro.berkeley.edu/). My research has been funded by the [National Science Foundation](https://www.nsfgrfp.org/).
 
+[check out my cv here](https://github.com/bstavel/bstavel.github.io/blob/main/assets/docs/CurriculumVitae_BrookeStaveland.pdf)
+
+
 **publications**
 
 † these authors contributed equally
+
 ‡ These authors contributed equally to this work as second authors
 
 **Staveland, B.R†**, Marciano, D.†, Lin J., Saez I., Hsu M., Knight, R. T. (2023)
