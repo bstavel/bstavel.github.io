@@ -19,8 +19,9 @@ In addition to my research, I try to reduce the burden of mental disorders via d
 
 **education**
 
-*Ph.D. in Neuroscience*, Helen Wills Institute for Neuroscience, University of California Berkeley, Berkeley, CA, Graduation date: Spring 2025
-*Bachelor of Science in Mathematics*, Summa Cum Laude, The George Washington University, Washington, DC
+*Ph.D. in Neuroscience*, Helen Wills Institute for Neuroscience, University of California Berkeley, Berkeley, CA, Spring 2025
+
+*Bachelor of Science in Mathematics*, Summa Cum Laude, The George Washington University, Washington, DC, Spring 2027
 
 **publications**
 
