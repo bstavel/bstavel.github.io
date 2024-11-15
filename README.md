@@ -17,6 +17,11 @@ My research career began with large-scale treatment prediction studies to better
 
 In addition to my research, I try to reduce the burden of mental disorders via direct service. Specifically, I volunteer with [RAINN](https://rainn.org/) as a support specialist on RAINN’s anonymous, confidential, and text-based hotline. Support specialists help survivors in need of crisis support by being a listening ear, a soundboard for ideas that visitors want to discuss, and providing resources and information about healing from trauma.
 
+**education**
+
+*Ph.D. in Neuroscience*, Helen Wills Institute for Neuroscience, University of California Berkeley, Berkeley, CA, Graduation date: Spring 2025
+*Bachelor of Science in Mathematics*, Summa Cum Laude, The George Washington University, Washington, DC
+
 **publications**
 
 † these authors contributed equally
