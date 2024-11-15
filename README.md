@@ -7,7 +7,7 @@ Fundamentally, I think mood disorders are caused by interlocking problems at the
 
 **research**
 
-My research career began with large-scale treatment prediction studies to better match depressed/anxious individuals with unique SSRIs and behavioral interventions at Stanford's [PanLab](https://williamspanlab.com/). In my doctoral work at UC Berkeley, I fit computational models of anxious decision-making (avised by Dr. Ming Hsu @ the [Neuroecon Lab](https://neuroecon.berkeley.edu/) and then use these models to better characterize the underlying brain circuitry using iEEG (advised by Dr. Robert Knight @ the [Knight Lab](https://knightlab.neuro.berkeley.edu/). My research has been funded by the [National Science Foundation](https://www.nsfgrfp.org/).
+My research career began with large-scale treatment prediction studies to better match depressed/anxious individuals with unique SSRIs and behavioral interventions at Stanford's [PanLab](https://williamspanlab.com/). In my doctoral work at UC Berkeley, I fit computational models of anxious decision-making (avised by Dr. Ming Hsu @ the [Neuroecon Lab](https://neuroecon.berkeley.edu/)) and then use these models to better characterize the underlying brain circuitry using iEEG (advised by Dr. Robert Knight @ the [Knight Lab](https://knightlab.neuro.berkeley.edu/)). My research has been funded by the [National Science Foundation](https://www.nsfgrfp.org/).
 
 [check out my cv here](https://github.com/bstavel/bstavel.github.io/blob/main/assets/docs/CurriculumVitae_BrookeStaveland.pdf)
 
