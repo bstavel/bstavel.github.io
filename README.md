@@ -2,15 +2,20 @@
 
 I am a clinical neuroscientist with eight years of experience researching the causes and treatments of mood disorders. In this work, I take an interdisciplinary approach. While my PhD focused on the neural circuitry underlying anxiety, I also completed a two-year specialization in clinical psychology, where I got to work hands-on with clients giving evidence-based treatments. Most of my research fits under the umbrella of computational psychiatry, meaning I use data science tools (machine learning, Bayesian approaches, computational models) to understand individual differences in brains and behavior relevant to mental health. But I also completed an internship at [RAND](https://www.rand.org/) where I worked on translational and policy issues related to suicide prevention. 
 
-Fundamentally, I think mood disorders are caused by interlocking problems at the biological, psychological, interpersonal, societal & environmental levels. And we can accelerate our ability to better understand, treat, and prevent mood disorders, if we bring multiple perspectives together across these levels.   
+Fundamentally, I think mood disorders are caused by interlocking problems at the biological, psychological, interpersonal, societal & environmental levels. And we can accelerate our ability to better understand, treat, and prevent mood disorders if we bring multiple perspectives together across these levels.   
 
 
 **research**
 
-My research career began with large-scale treatment prediction studies to better match depressed/anxious individuals with unique SSRIs and behavioral interventions at Stanford's [PanLab](https://williamspanlab.com/). In my doctoral work at UC Berkeley, I fit computational models of anxious decision-making (avised by Dr. Ming Hsu @ the [Neuroecon Lab](https://neuroecon.berkeley.edu/)) and then use these models to better characterize the underlying brain circuitry using iEEG (advised by Dr. Robert Knight @ the [Knight Lab](https://knightlab.neuro.berkeley.edu/)). My research has been funded by the [National Science Foundation](https://www.nsfgrfp.org/).
+My research career began with large-scale treatment prediction studies to better match depressed/anxious individuals with unique SSRIs and behavioral interventions at Stanford's [PanLab](https://williamspanlab.com/). In my doctoral work at UC Berkeley, I fit computational models of anxious decision-making (advised by Dr. Ming Hsu @ the [Neuroecon Lab](https://neuroecon.berkeley.edu/)) and then use these models to better characterize the underlying brain circuitry using iEEG (advised by Dr. Robert Knight @ the [Knight Lab](https://knightlab.neuro.berkeley.edu/)). My research has been funded by the [National Science Foundation](https://www.nsfgrfp.org/).
 
 [check out my cv here](https://github.com/bstavel/bstavel.github.io/blob/main/assets/docs/CurriculumVitae_BrookeStaveland.pdf)
 
+[check out my google scholar here](https://scholar.google.com/citations?user=2zeFwi4AAAAJ&hl=en)
+
+**service**
+
+In addition to my research, I try to reduce the burden of mental disorders via direct service. Specifically, I volunteer with [RAINN](https://rainn.org/) as a support specialist on RAINN’s anonymous, confidential, and text-based hotline. Support specialists help survivors in need of crisis support by being a listening ear, a soundboard for ideas that visitors want to discuss, and providing resources and information about healing from trauma.
 
 **publications**
 
