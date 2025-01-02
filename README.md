@@ -29,20 +29,24 @@ In addition to my research, I try to reduce the burden of mental disorders via d
 
 ‡ These authors contributed equally to this work as second authors
 
+**Staveland, B.R.**, Oberschulte, J., Kim-McManus O., Willie, J.T., Brunner, P.,
+Dastjerdi, M., Lin J. J., Hsu M., Knight, R. T. (2024) Circuit dynamics of approach-
+avoidance conflict in humans. Preprint – bioRxiv. https://doi.org/10.1101/2024.12.31.630927
+
 **Staveland, B.R†**, Marciano, D.†, Lin J., Saez I., Hsu M., Knight, R. T. (2023)
 Electrophysiological signatures of inequity-dependent reward encoding in the
-human OFC. Cell Reports.
+human OFC. Cell Reports. https://doi.org/10.1016/j.celrep.2023.112865
 
 **Staveland, B.R†**, Tozzi, L.†, Holt-Gosselin, B.†, Chesnut, M., Chang, S., Choi,
 D., Shiner, M., Wu, H., Sporns, O., Barch, D., Gotlib, I., Hastie, T., Kerr, A.,
 Poldrack, R., Wandell, B., Wintermark, M., Williams, L.M. (2020) The human
 connectome project for disordered emotional states: project for disordered emotional states: protocol and rationale for a
-research domain criteria study of brain. Neuroimage.
+research domain criteria study of brain. Neuroimage. https://doi.org/10.1016/j.neuroimage.2020.116715
 
 Goldstein-Piekarski, A.N.†, Ball, T.M.†, Samara, Z.‡, **Staveland, B.R.‡**,
 Fleming, S.L.‡, Keller, A.S. ‡, Grisanzio, K.A.‡, Holt-Gosselin, B.‡, Ma, J.,
 Williams, L.M. (2021) Deriving biotypes for depression and anxiety using clinic-
-ready brain circuit metrics. Biological Psychiatry.
+ready brain circuit metrics. Biological Psychiatry. https://doi.org/10.1016/j.biopsych.2021.06.024
 
 Llorens A.†, Tzovara, A.†, Bellier, L. Bhaya-Grossman, I., Bidet-Caulet, A., Chang,
 W.K., Cross, Z.R., Dominguez-Faus, R., Flinker, A., Fonken, Y., Gorenstein, M.,
@@ -52,12 +56,12 @@ Marciano, D., Martin, S., Myers, N.E., Ojala, K., Pinheiro-Chagas, P., Ries, S.,
 Perry, A., Saez, I., Skelin, I., Buffalo, E.A., Fairhall, A.L., Kastner, S., Kopell, N.J.,
 Lin, J.J., Nobre, A.C., Solbakk, A.K., Wallis, J.D., Wang, X.J., Yuval-Greenberg,
 S., Knight, R.T., Dronkers, N.F. (2021) Gender bias in academia: a lifetime
-problem that needs solutions. Neuron.
+problem that needs solutions. Neuron. https://doi.org/10.1016/j.neuron.2021.06.002
 
 Keller, A.S., Leikauf J.E., Holt-Gosselin B, **Staveland B.R.**, Williams L.M.
-(2019) Paying attention to attention in depression. Translational Psychiatry.
+(2019) Paying attention to attention in depression. Translational Psychiatry. https://doi.org/10.1038/s41398-019-0616-1
 
 Goldstein-Piekarski, A.N., **Staveland, B.R.**, Ball, T.M., Yesavage, J.,
 Korgaonkar, M.S., Williams, L.M. (2018). Intrinsic functional connectivity
 predicts remission on antidepressants: A randomized controlled trial to identify
-clinically applicable imaging biomarkers. Translational Psychiatry.
+clinically applicable imaging biomarkers. Translational Psychiatry. https://doi.org/10.1038/s41398-018-0100-3
