@@ -59,7 +59,7 @@ S., Knight, R.T., Dronkers, N.F. (2021) Gender bias in academia: a lifetime
 problem that needs solutions. Neuron. [https://doi.org/10.1016/j.neuron.2021.06.002](https://doi.org/10.1016/j.neuron.2021.06.002)
 
 Keller, A.S., Leikauf J.E., Holt-Gosselin B, **Staveland B.R.**, Williams L.M.
-(2019) Paying attention to attention in depression. Translational Psychiatry. https://doi.org/10.1038/s41398-019-0616-1
+(2019) Paying attention to attention in depression. Translational Psychiatry. [https://doi.org/10.1038/s41398-019-0616-1](https://doi.org/10.1038/s41398-019-0616-1)
 
 Goldstein-Piekarski, A.N., **Staveland, B.R.**, Ball, T.M., Yesavage, J.,
 Korgaonkar, M.S., Williams, L.M. (2018). Intrinsic functional connectivity
