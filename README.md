@@ -1,21 +1,22 @@
 **about**
 
-I am a clinical neuroscientist with eight years of experience researching the causes and treatments of mood disorders. Most of my research fits under the umbrella of computational psychiatry, meaning I use data science tools (machine learning, Bayesian approaches, computational models) to understand individual differences in brains and behavior relevant to mental health. But in this work, I also take an interdisciplinary approach. For example, while my PhD focused on the neural circuitry underlying anxiety, I also completed a two-year specialization in clinical psychology, where I got to work hands-on with clients giving evidence-based treatments. And in my final year of my PhD, I completed an internship at [RAND](https://www.rand.org/) where I worked on translational and policy issues related to suicide prevention. 
-
-Fundamentally, I think mood disorders are caused by interlocking problems at the biological, psychological, interpersonal, societal & environmental levels. And I hypothesize that we can accelerate our ability to understand, treat, and prevent mood disorders if we bring multiple perspectives together across these levels.   
+I am a clinical neuroscientist with over a decade of experience researching the causes and treatments of psychiatric disorders. I am particularly interested in how aversive bodily states such as withdrawal, craving and distress drive and reinforce symptoms of neuropsychiatric disorders. Substance use disorders are a clear example of this: withdrawal, craving, and distress are painful, and drug use relieves them quickly. Over time, that relief can reinforce continued use, even as the costs grow. Drawing on training in both neuroscience and clinical psychology, my work combines human intracranial recordings, peripheral physiology and neuromodulation, including deep brain stimulation and low-intensity focused ultrasound, with the goal of developing novel treatments for the patients who need them.
 
 
 **research**
 
-My research career began with large-scale treatment prediction studies to better match depressed/anxious individuals with unique SSRIs and behavioral interventions at Stanford's [PanLab](https://williamspanlab.com/). In my doctoral work at UC Berkeley, I fit computational models of anxious decision-making (advised by Dr. Ming Hsu @ the [Neuroecon Lab](https://neuroecon.berkeley.edu/)) and then use these models to better characterize the underlying brain circuitry using iEEG (advised by Dr. Robert Knight @ the [Knight Lab](https://knightlab.neuro.berkeley.edu/)). My research has been funded by the [National Science Foundation](https://www.nsfgrfp.org/).
+**Predicting treatment response.** My research career began with large-scale treatment prediction studies to better match depressed/anxious individuals with unique SSRIs and behavioral interventions at Stanford's [PanLab](https://williamspanlab.com/).
+
+**Learning the treatments.** Alongside my PhD, I completed a two-year specialization in clinical psychology at UC Berkeley, delivering evidence-based therapies under supervision. 
+
+**Recording the circuits.**  In my doctoral work at UC Berkeley, I fit computational models of anxious decision-making (advised by Dr. Ming Hsu @ the [Neuroecon Lab](https://neuroecon.berkeley.edu/)) and then use these models to better characterize the underlying brain circuitry using iEEG (advised by Dr. Robert Knight @ the [Knight Lab](https://knightlab.neuro.berkeley.edu/)). My research has been funded by the [National Science Foundation](https://www.nsfgrfp.org/).
+
+**Changing the circuits.** At UCSF, I work on neuromodulation for substance use disorders, including deep brain stimulation and focused ultrasound, a noninvasive way to reach deep brain regions. I am also developing a line of research on how the body’s signals of distress, a brain region called the insula, and how behaviors that reduce that distress become reinforced.
 
 [check out my cv here](https://github.com/bstavel/bstavel.github.io/blob/main/assets/docs/CurriculumVitae_BrookeStaveland.pdf)
 
 [check out my google scholar here](https://scholar.google.com/citations?user=2zeFwi4AAAAJ&hl=en)
 
-**service**
-
-In addition to my research, I try to reduce the burden of mental disorders via direct service. Specifically, I volunteer with [RAINN](https://rainn.org/) as a support specialist on RAINN’s anonymous, confidential, and text-based hotline. Support specialists help survivors in need of crisis support by being a listening ear, a soundboard for ideas that visitors want to discuss, and providing resources and information about healing from trauma.
 
 **education**
 
@@ -28,6 +29,10 @@ In addition to my research, I try to reduce the burden of mental disorders via d
 † these authors contributed equally
 
 ‡ These authors contributed equally to this work as second authors
+
+**Staveland, B.R.†**, Brandts, S.D.†, et al. (2026). Empirical limitations of current low-intensity focused ultrasound simulation platforms. Brain Stimulation. 
+
+**Staveland, B.R.**, et al. (2026). Cortical-limbic circuit dynamics of approach-avoidance conflict in humans. Nature Communications. 
 
 **Staveland, B.R†**, Marciano, D.†, Lin J., Saez I., Hsu M., Knight, R. T. (2023)
 Electrophysiological signatures of inequity-dependent reward encoding in the
